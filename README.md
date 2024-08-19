@@ -1,7 +1,7 @@
 # YO LO CUIDO
 
 ### Links
-- **Figma:** [Figma](https://www.figma.com/proto/8QSznuzXRh9wzYoGMO0YvG/PROYECTO-NO-COUNTRY?node-id=59-1898&source=email_invite)
+- **Figma:** [Figma](https://www.figma.com/design/8QSznuzXRh9wzYoGMO0YvG/PROYECTO-NO-COUNTRY?node-id=87-2010&t=bLb5rMQuojUUZgzf-0)
 - **Deploy** [Yolocuido.app](https://yolocuido.vercel.app/)
 
 **YO LO CUIDO** is an innovative responsive platform dedicated to the hiring of pet walking and boarding services. Through a focus on trust, warmth, and professionalism, we offer a unique experience in the market, characterized by a wide range of features designed to meet the needs of our users. We provide a platform where caregivers and walkers can offer their services in an accessible way. Everyone is invited to participate: pet owners, caregivers, walkers, insurers, and investors looking to capitalize in this sector. Our platform allows the posting of services, rating and rewarding outstanding caregivers and walkers, an alternative payment method using tokens, as well as coverage and assistance during service hiring.
