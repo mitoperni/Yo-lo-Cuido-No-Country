@@ -1,33 +1,31 @@
-# YO LO CUIDO - c18/25 m - Node - React  
+# YO LO CUIDO
 
-## Servicio de Contratación de Paseadores/Cuidadores  
+### Links
+- **Figma:** [Figma](#)
+- **Deploy:** [https://www.yolocuido.app/](https://www.yolocuido.app/)
 
-### ENLACES:  
-- **FIGMA**: [FIGMA](https://www.figma.com/design/8QSznuzXRh9wzYoGMO0YvG/PROYECTO-NO-COUNTRY?node-id=0-1&t=dyXvWy7OT5ZsGLPF-1)  
-- **DEPLOY**: [https://www.yolocuido.app/](https://yolocuido.vercel.app/)  
+**YO LO CUIDO** is an innovative responsive platform dedicated to the hiring of pet walking and boarding services. Through a focus on trust, warmth, and professionalism, we offer a unique experience in the market, characterized by a wide range of features designed to meet the needs of our users. We provide a platform where caregivers and walkers can offer their services in an accessible way. Everyone is invited to participate: pet owners, caregivers, walkers, insurers, and investors looking to capitalize in this sector. Our platform allows the posting of services, rating and rewarding outstanding caregivers and walkers, an alternative payment method using tokens, as well as coverage and assistance during service hiring.
 
-YO LO CUIDO es una plataforma responsive innovadora dedicada a la contratación de servicios de paseo y hospedaje para mascotas. A través de un enfoque centrado en la confianza, la calidez y la profesionalidad, ofrecemos una experiencia única en el mercado, caracterizada por una amplia variedad de funcionalidades diseñadas para satisfacer las necesidades de nuestros usuarios. Proponemos una plataforma donde los cuidadores y paseadores puedan ofrecer sus servicios de manera accesible. Todos están invitados a participar: dueños de mascotas, cuidadores, paseadores, aseguradoras e inversionistas que busquen capitalizarse en el área. Nuestra plataforma permite publicar servicios, evaluar y recompensar a los cuidadores y paseadores destacados, una alternativa de medio de pago como el uso de tokens, además de cobertura y asistencia durante la contratación del servicio.  
+Our goal is to facilitate the hiring of pet caregivers and walkers with security and efficiency, as we are on the path to becoming the leading platform for pet care and walking services in Latin America. YO LO CUIDO is designed to transform the way pet owners hire care services, combining security, efficiency, and financial innovation. Join us in this revolution in pet care!
 
-Nuestro objetivo es facilitar la contratación de cuidadores y paseadores de mascotas con seguridad y eficiencia, porque estamos camino a convertirnos en la plataforma líder en servicios de cuidado y paseo de mascotas en Latinoamérica. YO LO CUIDO está diseñada para transformar la manera en la que los dueños de mascotas contratan servicios de cuidado, combinando seguridad, eficiencia e innovación financiera. ¡Unite a nosotros en esta revolución en el cuidado de mascotas!  
+## Technologies Used
+- **UX/UI Design:** Figma, Imgur
+- **Frontend:** HTML, CSS, React
+- **Backend:** NodeJS, Express, MongoDB
+- **QA:** PostMan
 
-### TECNOLOGÍAS UTILIZADAS:  
-- **DISEÑO UX/UI**: Figma, Imgur  
-- **FRONTEND**: HTML, CSS y REACT  
-- **BACKEND**: NodeJS, Express, MongoDB  
-- **QA**: PostMan  
+### Future Updates (Desired)
+- API for micro-insurance and cryptocurrencies
 
-### DESEABLES PARA FUTURAS ACTUALIZACIONES:  
-- API para microseguros y criptomonedas.  
+## Collaborators
+- **UX/UI Design:** Erica Vanesa Candia  
+[GitHub](https://github.com/PericlesUXUI) | [LinkedIn](https://www.linkedin.com/in/ericavanesacandia)
 
-### COLABORADORES:  
-- **DISEÑO UX/UI**: Erica Vanesa Candia  
-  [GitHub](https://github.com/PericlesUXUI) | [LinkedIn](https://www.linkedin.com/in/ericavanesacandia)  
-  
-- **FRONTEND**: Miguel Toyas Pernichi  
+- **Frontend:** Miguel Toyas Pernichi  
   [GitHub](https://github.com/Mitoperni) | [LinkedIn](https://www.linkedin.com/in/migueltoyaspernichi)  
 
-- **BACKEND**: Elías San Martín  
+- **Backend:** Elías San Martín  
   [GitHub](https://github.com/Elias-san) | [LinkedIn](https://www.linkedin.com/in/elias-san-martin/)  
 
-- **QA**: Cristian Campos  
+- **QA:** Cristian Campos  
   [GitHub](https://github.com/CrisCampos01) | [LinkedIn](https://www.linkedin.com/in/cristian-campos-a7597114a/)  
