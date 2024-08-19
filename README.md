@@ -2,7 +2,6 @@
 
 ### Links
 - **Figma:** [Figma](#)
-- **Deploy:** [https://www.yolocuido.app/](https://www.yolocuido.app/)
 
 **YO LO CUIDO** is an innovative responsive platform dedicated to the hiring of pet walking and boarding services. Through a focus on trust, warmth, and professionalism, we offer a unique experience in the market, characterized by a wide range of features designed to meet the needs of our users. We provide a platform where caregivers and walkers can offer their services in an accessible way. Everyone is invited to participate: pet owners, caregivers, walkers, insurers, and investors looking to capitalize in this sector. Our platform allows the posting of services, rating and rewarding outstanding caregivers and walkers, an alternative payment method using tokens, as well as coverage and assistance during service hiring.
 
