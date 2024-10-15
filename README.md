@@ -8,6 +8,8 @@
 - 🎨 **Figma:** [Design Prototype](https://www.figma.com/design/8QSznuzXRh9wzYoGMO0YvG/PROYECTO-NO-COUNTRY?node-id=87-2010&t=bLb5rMQuojUUZgzf-0)
 - 🚀 **Deploy:** [Yolocuido.app](https://yolocuido.vercel.app/)
 - 🎥 **Demo Video:** [Watch on Loom](https://www.loom.com/share/d04830190309451393eaf532ed390d41?sid=64c32990-27ec-496a-8b72-bcdacd63401f)
+- 🎦 **Project Presentation:** [Watch on Loom](https://www.loom.com/share/53d58c898c244632a107781d1a65616f?sid=8975d84d-e8ba-46c6-9f27-223617eac0ae)
+
 
 ## 📝 Description
 
